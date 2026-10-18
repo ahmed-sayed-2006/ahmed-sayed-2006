@@ -21,19 +21,19 @@ Exploring HTTP, networking, content processing, parsing, caching, and the system
 
 ## Selected Work
 
-### Rest Countries — React Country Explorer
+### Rest Countries - React Country Explorer
 
 A production-oriented React application featuring reusable components, custom hooks, centralized state management, accessibility-focused interactions, and automated testing.
 
 [Live Demo](https://ahmed-rest-countries.vercel.app/) · [Source Code](https://github.com/ahmed-sayed-2006/Rest_Countries_API)
 
-### Weather App — Vanilla JavaScript
+### Weather App - Vanilla JavaScript
 
 A modular JavaScript application focused on REST APIs, dynamic rendering, accessibility, responsive UI, and client-side data efficiency.
 
 [Live Demo](https://weather-app-virid-six-92.vercel.app/) · [Source Code](https://github.com/ahmed-sayed-2006/weather-app)
 
-### OpenSeadragon — PR #2972
+### OpenSeadragon - PR #2972
 
 Contributed to the OpenSeadragon JavaScript library by investigating and resolving HTTP status propagation across TileSource and Viewer layers.
 
